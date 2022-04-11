@@ -11,7 +11,6 @@ Elite Android Virus Features:-
     Run in background continuously and gets restarted even after device is turned ON/OFF.
     Track the user's interaction by retrieving the applications that user has started. 
 
-Hellboy Android Anti-Virus Features:-
+DV_4 Android Anti-Virus :-
 
-    The only solution to uninstall Elite virus from infected mobile.
-    It forces to uninstall, so that it can be made one time use only.  
+   Coming soon 🔜 by DV_4 🔰 🏴 ☢️ 📳 ⚠️ 
