@@ -1,10 +1,9 @@
-# Android-Elite-Virus
-Elite is an android virus and Hellboy is an anti-virus that has features as mentioned below.
+# Android-DV4-Virus
+RAMIZER is an android virus and DV_4 ANTIZER is an anti-virus that has features as mentioned below.
 
-Elite Android Virus Features:-
+RAMIZER Android Virus Features:-
 
-    Send sms continuously from the device to all phone contacts randomly till mobile balance is nil.
-    Block sms messenger, etc apps.
+
     Wipe out sd-card data completely.
     Hide app icon from app launcher as well as recent category.
     Cannot uninstalling this virus app from application manager.
